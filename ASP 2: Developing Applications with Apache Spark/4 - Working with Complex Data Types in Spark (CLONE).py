@@ -188,6 +188,11 @@ raw_user_data_df.createOrReplaceTempView("rawuserdata")
 # COMMAND ----------
 
 # MAGIC %sql
+# MAGIC select from_json(interests, 'array<string>')[0] as first_interest from raw_user_data
+
+# COMMAND ----------
+
+# MAGIC %sql
 # MAGIC select schema_of_json_agg(recent_purchases) from raw_user_data
 
 # COMMAND ----------
@@ -337,6 +342,35 @@ display(user_interests_df)
 # First let's explode the "recent_purchases" column
 exploded_purchases_df = parsed_users_df.select("user_id", explode("recent_purchases").alias("purchase"))
 display(exploded_purchases_df)
+
+# COMMAND ----------
+
+exploded_purchases_df.createTempView("exploded_purchases")
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC with base as
+# MAGIC (SELECT '{"date":"2023-03-10","name":"Laptop","price":1299.99,"product_id":"P123"}' as purchase)
+# MAGIC , base2 as (SELECT parse_json(purchase) as var_pur from base)
+# MAGIC select var_pur:date from base2
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC with base as
+# MAGIC (SELECT '{"date":"2023-03-10","name":"Laptop","price":1299.99,"product_id":"P123"}' as purchase)
+# MAGIC SELECT purchase:date from base
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC with base as 
+# MAGIC (select cAST(purchase AS STRING) , user_id from exploded_purchases)
+# MAGIC select 
+# MAGIC *
+# MAGIC --purchase:date , user_id 
+# MAGIC from base
 
 # COMMAND ----------
 
