@@ -1,0 +1,79 @@
+2025-12-11 08:15:07 From Drew Minkin to Everyone:
+	https://en.wikipedia.org/wiki/Netflix_Prize
+	
+2025-12-11 08:23:18 From Drew Minkin to Everyone:
+	Screenshot2025_12_11_082317.jpg
+	
+2025-12-11 08:25:57 From Drew Minkin to Everyone:
+	Screenshot2025_12_11_082557.jpg
+	
+2025-12-11 08:27:43 From Drew Minkin to Everyone:
+	Screenshot2025_12_11_082743.jpg
+	
+2025-12-11 08:28:55 From Drew Minkin to Everyone:
+	https://spark.apache.org/spark-connect/
+	
+2025-12-11 08:29:23 From Drew Minkin to Everyone:
+	https://docs.databricks.com/aws/en/dev-tools/databricks-connect/
+	
+2025-12-11 08:29:47 From Drew Minkin to Everyone:
+	https://www.databricks.com/product/databricks-apps
+	
+2025-12-11 08:48:08 From Drew Minkin to Everyone:
+	https://dbc-0de059f5-413b.cloud.databricks.com
+	
+2025-12-11 08:51:26 From Drew Minkin to Everyone:
+	https://www.databricks.com/product/pricing/lakeflow-jobs
+	
+2025-12-11 08:56:30 From Steven to Everyone:
+	yes
+	
+2025-12-11 08:57:09 From Yemisi Imogirie to Everyone:
+	I'm in the environment, thanks
+	
+2025-12-11 09:30:10 From Steven to Everyone:
+	gtg
+	
+2025-12-11 09:46:35 From Drew Minkin to Everyone:
+	https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html
+	
+2025-12-11 10:19:39 From Steven to Everyone:
+	so we have 8 partitions being used?
+	
+2025-12-11 10:29:40 From Drew Minkin to Everyone:
+	RLIKE
+	
+2025-12-11 11:05:53 From Drew Minkin to Everyone:
+	https://github.com/speedboat-pro/morpheus
+	
+2025-12-11 11:23:55 From Drew Minkin to Everyone:
+	Repo for offloading in classroom notebooks
+	
+2025-12-11 11:23:59 From Drew Minkin to Everyone:
+	https://github.com/hekaplex/ApacheSpark_60301
+	
+2025-12-11 13:00:02 From Drew Minkin to Everyone:
+	https://dplyr.tidyverse.org/articles/window-functions.html
+	
+2025-12-11 13:02:11 From Drew Minkin to Everyone:
+	https://github.com/databrickslabs/brickster
+	
+2025-12-11 13:46:57 From Drew Minkin to Everyone:
+	https://medium.com/@avinash.a.ghanekar/optimizing-apache-spark-workloads-addressing-the-5ss-e1ac605a7821
+	
+2025-12-11 14:29:30 From Anthony to Everyone:
+	a person that will remain unnamed left their keys in their car.. I have to run and get my daughter from school.. 
+	Be back in 30 minutes
+	
+2025-12-11 15:04:06 From Anthony to Everyone:
+	back
+	
+2025-12-11 15:13:42 From Yemisi Imogirie to Everyone:
+	My zoom restarted a couple of times so I don't have access to previously sent messages. Is there a way you can send all the links you shared in the chat across?
+	
+2025-12-11 15:18:22 From Yemisi Imogirie to Everyone:
+	Thank you
+	
+2025-12-11 15:18:36 From Yemisi Imogirie to Everyone:
+	please share the repo link again
+	
