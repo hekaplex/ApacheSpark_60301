@@ -1,0 +1,36 @@
+2025-12-12 12:36:03 From Drew Minkin to Everyone:
+	I
+	
+2025-12-12 12:36:03 From Drew Minkin to Everyone:
+	Screenshot2025_12_12_123603.jpg
+	
+2025-12-12 12:38:41 From Steven to Everyone:
+	if there is time later: 'how does databricks differ from snowflake
+	
+2025-12-12 12:57:12 From Drew Minkin to Everyone:
+	https://www.databricks.com/blog/advancing-lakehouse-apache-iceberg-v3-databricks
+	
+2025-12-12 12:57:57 From Drew Minkin to Everyone:
+	https://docs.databricks.com/aws/en/iceberg/iceberg-v3
+	
+2025-12-12 13:24:40 From Drew Minkin to Everyone:
+	enableChangeDataFeed
+	
+2025-12-12 13:52:27 From Drew Minkin to Everyone:
+	Public - Copy of Snowflake Compete.pdf
+	
+2025-12-12 14:40:26 From Drew Minkin to Everyone:
+	T
+	
+2025-12-12 14:41:53 From Drew Minkin to Everyone:
+	Databricks Performance Optimization [SUPPLEMENTAL].pdf
+	
+2025-12-12 14:47:45 From Drew Minkin to Everyone:
+	https://spark.apache.org/docs/latest/sql-performance-tuning.html#join-strategy-hints-for-sql-queries
+	
+2025-12-12 14:48:29 From Drew Minkin to Everyone:
+	Salting the joins
+	
+2025-12-12 14:48:45 From Drew Minkin to Everyone:
+	Spark UI Simulator
+	
